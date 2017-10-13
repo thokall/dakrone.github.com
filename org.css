@@ -812,3 +812,6 @@ td, th {
     color: #ff0000;
     font-weight: bold;
 }
+
+
+.outline-text-3 table { margin-right:auto; margin-left:auto;}
